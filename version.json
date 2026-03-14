@@ -1,0 +1,11 @@
+{
+  "version": "v3.0.0",
+  "download_url": "https://payhip.com/YOUR_PRODUCT_LINK",
+  "changelog": "الإصدار الأول"
+}
+```
+
+3. تأكد إن الـ repo **Public**
+4. الـ URL اللي في الكود يطابق تماماً:
+```
+   https://raw.githubusercontent.com/ameerwolfpromediaorganizer-gif/amwo-renamer/main/version.json
